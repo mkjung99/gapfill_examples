@@ -2,7 +2,8 @@
 Examples of using GapFill module
 
 ## C3D libraries
-- [BTK](https://anaconda.org/conda-forge/btk)
+- [BTK Python3 binding (conda-forge)](https://anaconda.org/conda-forge/btk) (thanks to [volunteers](https://github.com/Biomechanical-ToolKit/BTKCore/issues/28#issuecomment-572571063) who managed to build Python3 bindings of BTK)
+- [BTK Python3 binding (PyPI)](https://pypi.org/project/pyBTK/)
 - [C3Dserver](https://www.c3dserver.com/)
 
 ## BTS TDF library
