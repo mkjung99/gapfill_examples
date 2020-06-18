@@ -58,12 +58,9 @@ tgt_mkr_pos_updated[~updated_frs_mask] = np.nan
 fig = plt.figure(figsize=(4,2))
 plt.plot(tgt_mkr_pos_updated[:,0], ls=':', lw=1.5, color='black', zorder=0)
 plt.plot(tgt_mkr_pos_original[:,0], ls='-', lw=3, color='red', zorder=1)
-
 plt.plot(tgt_mkr_pos_updated[:,1], ls=':', lw=1.5, color='black', zorder=0)
 plt.plot(tgt_mkr_pos_original[:,1], ls='-', lw=3, color='green', zorder=1)
-
 plt.plot(tgt_mkr_pos_updated[:,2], ls=':', lw=1.5, color='black', zorder=0)
 plt.plot(tgt_mkr_pos_original[:,2], ls='-', lw=3, color='blue', zorder=1)
-
 plt.show()
-# plt.savefig('test.png', dpi=320)
+# plt.savefig('Sample26_Walking_Hybrid_1_5_RHANK_3.png', dpi=320)
