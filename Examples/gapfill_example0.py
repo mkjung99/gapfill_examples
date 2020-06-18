@@ -44,8 +44,9 @@ for i, mkr_name in enumerate(['R_SHANK_1', 'R_SHANK_2', 'R_SHANK_4']):
     cl_mkr_pos[i] = dict_mkrs[mkr_name]['POS']
 
 # tgt_mkr_pos will be updated.
-ret, updated_frs_mask = gf.fill_marker_gap_rbt(tgt_mkr_pos, cl_mkr_pos, msg=False)
+ret, updated_frs_mask = gf.fill_marker_gap_rbt(tgt_mkr_pos, cl_mkr_pos)
 
-# ret, updated_frs_mask = gf.fill_marker_gap_pattern(tgt_mkr_pos, dict_mkrs['R_SHANK_1']['POS'], msg=False)
-# ret, updated_frs_mask = gf.fill_marker_gap_interp(tgt_mkr_pos, msg=False)
+# ret, updated_frs_mask = gf.fill_marker_gap_pattern(tgt_mkr_pos, dict_mkrs['R_SHANK_1']['POS'])
+
+# ret, updated_frs_mask = gf.fill_marker_gap_interp(tgt_mkr_pos)
 
