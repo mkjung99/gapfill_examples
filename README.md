@@ -8,5 +8,5 @@ Examples of using GapFill module
 ## BTS TDF library
 - [pythonTDFreader](https://github.com/mmmatjaz/pythonTDFreader)
 
-## Sample C3D files
+## Source of the files in 'Samples_C3D' folder
 - [C3D.ORG](https://www.c3d.org/sampledata.html)
