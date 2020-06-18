@@ -14,3 +14,6 @@ See [here](https://github.com/mkjung99/gapfill)
 
 ## Source of the files in 'Samples_C3D' folder
 - [C3D.ORG](https://www.c3d.org/sampledata.html)
+
+## Example of results
+![Image](https://github.com/mkjung99/gapfill_examples/blob/master/Images/Sample26_Walking_Hybrid_1_5_RHANK_3.png)
