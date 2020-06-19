@@ -1,8 +1,8 @@
 # GapFill examples
 Examples of using GapFill module
 
-## GapFill module
-See [here](https://github.com/mkjung99/gapfill)
+## Installation of GapFill module
+See [details](https://github.com/mkjung99/gapfill)
 
 ## Source of sample C3D files
 - From [C3D.ORG](https://www.c3d.org/sampledata.html)
