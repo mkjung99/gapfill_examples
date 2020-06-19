@@ -11,8 +11,8 @@ See [here](https://github.com/mkjung99/gapfill)
 ![Image](https://github.com/mkjung99/gapfill_examples/blob/master/Images/Sample26_Walking_Hybrid_1_5_RHANK_3.png)
 
 ## References
-### C3D libraries
-- [BTK Python3 binding (conda-forge)](https://anaconda.org/conda-forge/btk) (thanks to [volunteers](https://github.com/Biomechanical-ToolKit/BTKCore/issues/28#issuecomment-572571063) who managed to build Python3 bindings of BTK)
+### C3D libraries (Microsoft Windows x64 platforms)
+- [BTK Python3 binding (conda-forge)](https://anaconda.org/conda-forge/btk) (see the [details](https://github.com/Biomechanical-ToolKit/BTKCore/issues/28#issuecomment-572571063), thanks to [@melund](https://github.com/melund/))
 - [BTK Python3 binding (PyPI)](https://pypi.org/project/pyBTK/)
 - [C3Dserver](https://www.c3dserver.com/)
 
