@@ -12,7 +12,7 @@ See [details](https://github.com/mkjung99/gapfill)
 
 ## References
 ### C3D libraries (Microsoft Windows x64 platforms)
-- [BTK Python3 binding (conda-forge)](https://anaconda.org/conda-forge/btk) (find the [details](https://github.com/Biomechanical-ToolKit/BTKCore/issues/28#issuecomment-572571063), thanks to [@melund](https://github.com/melund/))
+- [BTK Python3 binding (conda-forge)](https://anaconda.org/conda-forge/btk)
 - [BTK Python3 binding (PyPI)](https://pypi.org/project/pyBTK/)
 - [C3Dserver](https://www.c3dserver.com/)
 
